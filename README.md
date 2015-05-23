@@ -16,7 +16,7 @@ Client
 * 1. Receive data from Server.
 * 2. Received data to Byte[]. 
 
-It is stored in the queue. Because it(Byte[] to Bitmap) takes a lot of time.
+※ It is stored in the queue. Because it(Byte[] to Bitmap) takes a lot of time.
 * 3. Byte[] to Bitmap.
 * 4. set bitmap on ImageView.
 
